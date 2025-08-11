@@ -1,0 +1,51 @@
+Item ID,Item Type,Revision Date,Revision Number,Title,User ID,Last Name,First Name,Middle Name,Completion Status ID,Completion Status,Completion Date
+POPIA001,Online,2024-11-29,1.0,POPIA Introduction,70050001,Moon,Steven,M,2,Completed,2025-06-28
+DP_001,Online,2024-11-07,1.0,Data Protection Overview,70050002,Hughes,Kristi,O,2,Completed,2025-03-25
+DP_001,Online,2024-11-13,1.0,Data Protection Overview,70050003,Estes,Jeremy,A,2,Completed,2025-04-02
+DP_003,Online,2024-11-25,1.0,Security Awareness,70050004,Wilson,Daniel,Z,2,Completed,2025-05-09
+DP_001,Online,2024-10-28,1.0,Data Protection Overview,70050005,Miller,Wanda,J,2,Completed,2025-06-22
+DP_002,Online,2024-11-13,1.0,GDPR Basics,70050006,Moore,Zachary,E,2,Completed,2025-06-03
+DP_003,Online,2024-10-17,1.0,Security Awareness,70050007,Gonzalez,Richard,Q,2,Completed,2025-05-26
+DP_003,Online,2024-12-27,1.0,Security Awareness,70050008,Mueller,James,C,2,Completed,2025-06-12
+DP_001,Online,2025-01-18,1.0,Data Protection Overview,70050009,Phillips,Craig,J,2,Completed,2025-06-05
+DP_003,Online,2024-11-12,1.0,Security Awareness,70050010,Smith,Jamie,Z,2,Completed,2025-06-29
+DP_001,Online,2025-01-10,1.0,Data Protection Overview,70050011,Robinson,Mariah,D,2,Completed,2025-06-16
+POPIA001,Online,2024-10-24,1.0,POPIA Introduction,70050012,Davis,Patricia,Z,2,Completed,2025-05-04
+DP_004,Online,2024-10-23,1.0,Incident Reporting,70050013,Baker,Robert,Z,2,Completed,2025-03-23
+DP_004,Online,2024-11-02,1.0,Incident Reporting,70050014,Pugh,Denise,E,2,Completed,2025-05-05
+DP_002,Online,2024-10-23,1.0,GDPR Basics,70050015,Dixon,Toni,R,2,Completed,2025-05-07
+DP_001,Online,2024-11-01,1.0,Data Protection Overview,70050016,Roberts,Renee,T,2,Completed,2025-06-07
+DP_002,Online,2024-12-10,1.0,GDPR Basics,70050017,Mason,Stephen,F,2,Completed,2025-05-02
+DP_002,Online,2024-12-14,1.0,GDPR Basics,70050018,Gay,Michael,I,2,Completed,2025-04-30
+DP_004,Online,2024-12-18,1.0,Incident Reporting,70050019,Ortiz,Julie,D,2,Completed,2025-06-26
+DP_001,Online,2025-01-14,1.0,Data Protection Overview,70050020,Howard,Andrew,Z,2,Completed,2025-04-12
+DP_002,Online,2024-11-25,1.0,GDPR Basics,70050021,Leonard,Emily,I,2,Completed,2025-06-11
+DP_005,Online,2024-10-20,1.0,POPIA Fundamentals,70050022,Smith,Melissa,N,2,Completed,2025-04-10
+DP_002,Online,2024-12-01,1.0,GDPR Basics,70050023,Smith,Michelle,F,2,Completed,2025-05-21
+DP_005,Online,2024-11-26,1.0,POPIA Fundamentals,70050024,Vega,Nicholas,L,2,Completed,2025-06-07
+POPIA001,Online,2024-12-17,1.0,POPIA Introduction,70050025,Mckinney,Aaron,P,2,Completed,2025-07-05
+DP_003,Online,2024-12-20,1.0,Security Awareness,70050026,Haney,Jennifer,D,2,Completed,2025-06-03
+POPIA001,Online,2025-01-08,1.0,POPIA Introduction,70050027,Miller,Brandy,Z,2,Completed,2025-05-27
+POPIA001,Online,2024-12-04,1.0,POPIA Introduction,70050028,Beasley,Todd,A,2,Completed,2025-07-01
+DP_001,Online,2024-11-07,1.0,Data Protection Overview,70050029,Dixon,Summer,M,2,Completed,2025-05-23
+POPIA001,Online,2024-11-27,1.0,POPIA Introduction,70050030,Johnston,Kenneth,W,2,Completed,2025-05-31
+POPIA001,Online,2024-12-15,1.0,POPIA Introduction,70050031,Cooke,Elizabeth,V,2,Completed,2025-05-02
+DP_004,Online,2025-01-11,1.0,Incident Reporting,70050032,Cook,Joseph,H,2,Completed,2025-03-28
+DP_001,Online,2025-01-16,1.0,Data Protection Overview,70050033,Warren,Samantha,S,2,Completed,2025-05-08
+DP_003,Online,2024-12-05,1.0,Security Awareness,70050034,Campbell,Ashley,M,2,Completed,2025-06-19
+POPIA001,Online,2025-01-20,1.0,POPIA Introduction,70050035,Torres,Hunter,A,2,Completed,2025-04-03
+POPIA001,Online,2024-10-16,1.0,POPIA Introduction,70050036,Clay,Jessica,K,2,Completed,2025-05-20
+DP_004,Online,2024-12-17,1.0,Incident Reporting,70050037,White,Walter,O,2,Completed,2025-06-14
+DP_001,Online,2024-11-19,1.0,Data Protection Overview,70050038,Thomas,Elizabeth,F,2,Completed,2025-05-21
+POPIA001,Online,2024-11-09,1.0,POPIA Introduction,70050039,Bird,Sarah,V,2,Completed,2025-05-14
+DP_002,Online,2024-11-03,1.0,GDPR Basics,70050040,Taylor,Erica,N,2,Completed,2025-06-02
+DP_001,Online,2024-12-24,1.0,Data Protection Overview,70050041,Smith,Dominic,X,2,Completed,2025-04-22
+DP_002,Online,2024-10-30,1.0,GDPR Basics,70050042,Ford,Christopher,I,2,Completed,2025-06-16
+DP_005,Online,2024-10-19,1.0,POPIA Fundamentals,70050043,Bradshaw,Sheryl,V,2,Completed,2025-06-01
+DP_005,Online,2024-10-22,1.0,POPIA Fundamentals,70050044,Smith,Derrick,N,2,Completed,2025-06-12
+DP_001,Online,2025-01-01,1.0,Data Protection Overview,70050045,Conner,Matthew,H,2,Completed,2025-05-22
+DP_005,Online,2024-10-19,1.0,POPIA Fundamentals,70050046,Brennan,Sara,R,2,Completed,2025-03-18
+DP_003,Online,2024-11-23,1.0,Security Awareness,70050047,Moore,Andrew,A,2,Completed,2025-04-01
+DP_002,Online,2024-12-21,1.0,GDPR Basics,70050048,Stephens,James,B,2,Completed,2025-06-14
+POPIA001,Online,2024-12-05,1.0,POPIA Introduction,70050049,Fuentes,Samuel,S,2,Completed,2025-03-19
+POPIA001,Online,2024-11-14,1.0,POPIA Introduction,70050050,Neal,Eileen,Z,2,Completed,2025-05-05
